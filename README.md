@@ -24,7 +24,3 @@ Run BATCH_Points.m which will execute the following:
 1.	PRE_Points.m to load toy data, csv files are the groundtruth labels.
 2.	RUN_Points.m to perform spectral clustering with CONN filtering.
 3.	POST_Points.m to compute the accuracy of clustering
-
----
-written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
-September 23, 2019.
