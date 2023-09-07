@@ -20,7 +20,7 @@ This is an implementation for the following paper:
 
 ## How to use:
 
-Run BATCH_Points.m which will execute the following:
-1.	PRE_Points.m to load toy data, csv files are the groundtruth labels.
-2.	RUN_Points.m to perform spectral clustering with CONN filtering.
-3.	POST_Points.m to compute the accuracy of clustering
+Run `BATCH_Points.m` which will execute the following:
+1.	`PRE_Points.m` to load toy data, csv files are the groundtruth labels.
+2.	`RUN_Points.m` to perform spectral clustering with CONN filtering.
+3.	`POST_Points.m` to compute the accuracy of clustering
